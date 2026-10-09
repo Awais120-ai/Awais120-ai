@@ -6,10 +6,10 @@
   <a href="https://m-awais-portfolio-neon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Rawalpindi%20%2F%20Islamabad-0e75b6?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
-# Hi 👋, I'm Muhammad Awais Farooq
+Hi 👋, I'm Muhammad Awais Farooq
 ---
-### Full Stack Developer · Web Products & AI-Powered Applications
-## 👨‍💻 About Me
+ Full Stack Developer · Web Products & AI-Powered Applications
+👨‍💻 About Me
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=React+%26+Next.js+interfaces;FastAPI+%26+PostgreSQL+APIs;Real-time+WebSockets+%26+WebRTC;AI+chat+and+product+features" alt="What I build" />
 * 💼 Full Stack Developer building **complete web products**, from the interface to the API
 * ⚡ Frontend in **React & Next.js**, backend in **Python & FastAPI**
@@ -17,11 +17,11 @@
 * 🛠️ Comfortable with **JWT auth, PostgreSQL, Redis, and Docker**
 * 🎓 BS Computer Science, Arid Agriculture University, Rawalpindi
 <br />
----
+
 <img src="https://komarev.com/ghpvc/?username=Awais120-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 <a href="https://m-awais-portfolio-neon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <img src="https://img.shields.io/badge/Rawalpindi%20%2F%20Islamabad-0e75b6?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
-## 🚀 What I Do
+ 🚀 What I Do
 </div>
 * 🔹 Build full-stack applications with React, Next.js, and FastAPI
 * 🔹 Design REST APIs, login flows, and role-based access
@@ -29,11 +29,11 @@
 * 🔹 Shape PostgreSQL schemas and keep queries fast
 * 🔹 Ship AI features such as chatbots and automated workflows
 <br />
----
+
 <table width="100%">
 <tr>
 <td>
-## 🧠 Current Focus
+🧠 Current Focus
 <h3>👨‍💻 &nbsp; About Me</h3>
 * ⚙️ Real-time systems — WebSockets and WebRTC
 * ☁️ Delivery with Docker, GitHub, and Vercel
@@ -43,13 +43,13 @@
 🧠 &nbsp; Working on <strong>real-time features</strong> and <strong>AI-powered chat</strong><br />
 🛠️ &nbsp; Comfortable with <strong>JWT auth, PostgreSQL, Redis, and Docker</strong><br />
 🎓 &nbsp; BS Computer Science, Arid Agriculture University, Rawalpindi
----
+
 </td>
 </tr>
 </table>
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 <br />
-### 💻 Frontend
+💻 Frontend
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
 </p>
 <h3>🚀 &nbsp; What I Do</h3>
-### ⚙️ Backend
+ ⚙️ Backend
 🔹 &nbsp; Build full-stack apps with React, Next.js, and FastAPI<br /><br />
 🔹 &nbsp; Design REST APIs, login flows, and role-based access<br /><br />
 🔹 &nbsp; Add live features with WebSockets, WebRTC, and Redis<br /><br />
@@ -76,7 +76,7 @@
 </p>
 </td>
 <td width="50%" valign="top">
-### 🗄️ Database
+🗄️ Database
 <h3>🧠 &nbsp; Current Focus</h3>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
@@ -92,7 +92,7 @@ Chat, context, and small automated workflows<br /><br />
 📌 &nbsp; <strong>Now</strong><br />
 Full Stack Developer, product engineering<br />
 June 2025 — Present
-### ⚡ Realtime
+  ⚡ Realtime
 </td>
 </tr>
 </table>
@@ -101,7 +101,7 @@ June 2025 — Present
   <img src="https://img.shields.io/badge/WebRTC-111827?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
 </p>
 <br />
-### ☁️ DevOps & Tools
+☁️ DevOps & Tools
 <h2>🛠️ &nbsp; Tech Stack</h2>
 <p>
   <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
@@ -139,7 +139,7 @@ June 2025 — Present
 </table>
 ---
 <br />
-## 📌 Featured Projects
+📌 Featured Projects
 <h2>📌 &nbsp; Featured Projects</h2>
 <table>
   <tr>
